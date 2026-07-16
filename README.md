@@ -17,12 +17,8 @@ MyPrepaidCenter is a modern web application designed to help users manage prepai
 - Node.js
 
 ## Author
-**Name:** Copilot Dev  
-**Email:** copilot.dev@example.com  
+**Name:** David Najera  
+**Email:** david74najera@outlook.com
 **Website:** 
-Bio: Copilot Dev is a passionate software engineer with over 10 years of experience in full‑stack development. Known for a helping nature and mastery in coding, they specialize in building scalable web applications and mentoring new developers.
+Bio: David Najera is a passionate software engineer with over 10 years of experience in full‑stack development. Known for a helping nature and mastery in coding, they specialize in building scalable web applications and mentoring new developers.
 
-## Getting Started
-### Clone the Repository:
-```bash
-git clone https://github.com/yourusername/MyPrepaidCenter.git
